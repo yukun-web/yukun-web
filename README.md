@@ -1,6 +1,6 @@
 # 👋 Kawamoto Yuto ([@yukun-web](https://github.com/yukun-web))
 
-Web Engeneer in Kobe, Japan.
+Web Engeneer.
 
 * 🪄 TypeScript, PHP
 * 💻 GCP, AWS, Firebase
